@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DialogueAnalyzer.Web/1.0.0": {
+        "dependencies": {
+          "DialogueAnalyzer.Application": "1.0.0",
+          "DialogueAnalyzer.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "DialogueAnalyzer.Web.dll": {}
+        }
+      },
+      "DialogueAnalyzer.Application/1.0.0": {
+        "dependencies": {
+          "DialogueAnalyzer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DialogueAnalyzer.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DialogueAnalyzer.Domain/1.0.0": {
+        "runtime": {
+          "DialogueAnalyzer.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DialogueAnalyzer.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DialogueAnalyzer.Application": "1.0.0",
+          "DialogueAnalyzer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DialogueAnalyzer.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DialogueAnalyzer.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialogueAnalyzer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialogueAnalyzer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialogueAnalyzer.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

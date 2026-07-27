@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="DialogueAnalyzer.Application/DialogueAnalyzer.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="DialogueAnalyzer.Domain/DialogueAnalyzer.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="DialogueAnalyzer.Infrastructure/DialogueAnalyzer.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="DialogueAnalyzer.Web.Tests/DialogueAnalyzer.Web.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="DialogueAnalyzer.Web/DialogueAnalyzer.Web.csproj" />
+  </Folder>
+  <Folder Name="/Элементы решения/">
+    <File Path="Dockerfile" />
+  </Folder>
+</Solution>

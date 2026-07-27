@@ -1,0 +1,2 @@
+C:\Users\Budar\source\repos\DialogueAnalyzer\obj\Debug\DialogueAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Budar\source\repos\DialogueAnalyzer\obj\Debug\DialogueAnalyzer.csproj.CoreCompileInputs.cache

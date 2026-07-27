@@ -1,0 +1,6 @@
+{
+  "DialogueAnalyzer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Budar\\source\\repos\\DialogueAnalyzer\\DialogueAnalyzer.Application",
+  "DialogueAnalyzer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Budar\\source\\repos\\DialogueAnalyzer\\DialogueAnalyzer.Domain",
+  "DialogueAnalyzer.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Budar\\source\\repos\\DialogueAnalyzer\\DialogueAnalyzer.Infrastructure",
+  "DialogueAnalyzer.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Budar\\source\\repos\\DialogueAnalyzer\\DialogueAnalyzer.Web"
+}
